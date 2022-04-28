@@ -1,0 +1,16 @@
+C:\Users\Кирилл\Desktop\TRBD_LR_3\TRBD_LR_3\bin\Debug\netcoreapp3.1\save_table.exe
+C:\Users\Кирилл\Desktop\TRBD_LR_3\TRBD_LR_3\bin\Debug\netcoreapp3.1\save_table.deps.json
+C:\Users\Кирилл\Desktop\TRBD_LR_3\TRBD_LR_3\bin\Debug\netcoreapp3.1\save_table.runtimeconfig.json
+C:\Users\Кирилл\Desktop\TRBD_LR_3\TRBD_LR_3\bin\Debug\netcoreapp3.1\save_table.runtimeconfig.dev.json
+C:\Users\Кирилл\Desktop\TRBD_LR_3\TRBD_LR_3\bin\Debug\netcoreapp3.1\save_table.dll
+C:\Users\Кирилл\Desktop\TRBD_LR_3\TRBD_LR_3\bin\Debug\netcoreapp3.1\save_table.pdb
+C:\Users\Кирилл\Desktop\TRBD_LR_3\TRBD_LR_3\obj\Debug\netcoreapp3.1\save_table.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\TRBD_LR_3\TRBD_LR_3\obj\Debug\netcoreapp3.1\save_table.Form1.resources
+C:\Users\Кирилл\Desktop\TRBD_LR_3\TRBD_LR_3\obj\Debug\netcoreapp3.1\save_table.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\TRBD_LR_3\TRBD_LR_3\obj\Debug\netcoreapp3.1\save_table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\TRBD_LR_3\TRBD_LR_3\obj\Debug\netcoreapp3.1\save_table.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\TRBD_LR_3\TRBD_LR_3\obj\Debug\netcoreapp3.1\save_table.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\TRBD_LR_3\TRBD_LR_3\obj\Debug\netcoreapp3.1\save_table.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\TRBD_LR_3\TRBD_LR_3\obj\Debug\netcoreapp3.1\save_table.dll
+C:\Users\Кирилл\Desktop\TRBD_LR_3\TRBD_LR_3\obj\Debug\netcoreapp3.1\save_table.pdb
+C:\Users\Кирилл\Desktop\TRBD_LR_3\TRBD_LR_3\obj\Debug\netcoreapp3.1\save_table.genruntimeconfig.cache
